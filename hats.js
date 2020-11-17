@@ -1,3 +1,3 @@
 console.log('hats');
 console.log('more hats');
-// adding
+// adding a comment
