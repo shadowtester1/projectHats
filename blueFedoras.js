@@ -1,2 +1,4 @@
-//fixing prod issues
-console.log('blue fedoras'); this is not ok
+if (blueFedoras) {
+  console.log('blue fedoras');
+} else {
+  console.log("brown fedoras");
